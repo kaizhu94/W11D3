@@ -2,7 +2,6 @@
   "name": "benchbnb",
   "private": true,
   "dependencies": {
-    "@babel/core": "^7.12.10",
     "@babel/preset-react": "^7.12.10",
     "babel-loader": "^8.2.2",
     "react": "^17.0.1",
@@ -36,6 +35,8 @@
   },
   "homepage": "https://github.com/kaizhu94/W11D3#readme",
   "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11"
   }
 }
